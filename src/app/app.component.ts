@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 
+// Rutas
+
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
