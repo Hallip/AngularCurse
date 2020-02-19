@@ -9,7 +9,7 @@ export class Graficas1Component implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 }
